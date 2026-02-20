@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1645077600000,
+    "name": "Ayesha Khan",
+    "department": "HR",
+    "basicSalary": 45000
+  },
+  {
+    "id": 1645164000000,
+    "name": "Rahul Sharma",
+    "department": "Engineer",
+    "basicSalary": 60000
+  },
+  {
+    "id": 1645336800000,
+    "name": "Amit Kumar",
+    "department": "Sales",
+    "basicSalary": 50000
+  },
+  {
+    "id": 1645423200000,
+    "name": "Neha Gupta",
+    "department": "HR",
+    "basicSalary": 40000
+  },
+  {
+    "id": 1645509600000,
+    "name": "Vikram Singh",
+    "department": "Engineer",
+    "basicSalary": 75000
+  },
+  {
+    "id": 1645596000000,
+    "name": "Sneha Reddy",
+    "department": "Finance",
+    "basicSalary": 30000
+  },
+  {
+    "id": 1645682400000,
+    "name": "Rohit Desai",
+    "department": "Sales",
+    "basicSalary": 55000
+  },
+  {
+    "id": 1645768800000,
+    "name": "Divya Mishra",
+    "department": "Engineer",
+    "basicSalary": 45000
+  },
+  {
+    "id": 1645855200000,
+    "name": "Karan Malhotra",
+    "department": "HR",
+    "basicSalary": 35000
+  },
+  {
+    "id": 1645941600000,
+    "name": "Anita Joshi",
+    "department": "Finance",
+    "basicSalary": 40000
+  },
+  {
+    "id": 1646028000000,
+    "name": "Sanjay Verma",
+    "department": "Sales",
+    "basicSalary": 40000
+  },
+  {
+    "id": 1646114400000,
+    "name": "Pooja Nair",
+    "department": "Engineer",
+    "basicSalary": 50000
+  },
+  {
+    "id": 1646200800000,
+    "name": "Arjun Mehra",
+    "department": "Finance",
+    "basicSalary": 60000
+  },
+  {
+    "id": 1646287200000,
+    "name": "Meera Iyer",
+    "department": "HR",
+    "basicSalary": 30000
+  },
+  {
+    "id": 1646373600000,
+    "name": "Nikhil Bhatia",
+    "department": "Engineer",
+    "basicSalary": 65000
+  },
+  {
+    "id": 1646460000000,
+    "name": "Riya Kapoor",
+    "department": "Sales",
+    "basicSalary": 35000
+  },
+  {
+    "id": 1646546400000,
+    "name": "Sameer Khan",
+    "department": "Finance",
+    "basicSalary": 45000
+  },
+  {
+    "id": 1646632800000,
+    "name": "Tara Singh",
+    "department": "Engineer",
+    "basicSalary": 55000
+  },
+  {
+    "id": 1646719200000,
+    "name": "Vikas Rao",
+    "department": "HR",
+    "basicSalary": 50000
+  },
+  {
+    "id": 1771564444152,
+    "name": "Jai Chaudhary",
+    "department": "Engineer",
+    "basicSalary": 65000
+  }
+]
