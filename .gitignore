@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Database file (contains your data, not code)
+employee.json
+
+# Environment variables (if you add any later)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
