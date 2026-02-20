@@ -1,9 +1,6 @@
 # Dependencies
 node_modules/
 
-# Database file (contains your data, not code)
-
-
 # Environment variables (if you add any later)
 .env
 
