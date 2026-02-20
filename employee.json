@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1771567975255,
+    "name": "Harshit Singh",
+    "department": "ejn",
+    "basicSalary": 45307
+  },
+  {
+    "id": 1771568282343,
+    "name": "Harshit Singh",
+    "department": "engineer",
+    "basicSalary": 100000000
+  },
+  {
+    "id": 1771568346629,
+    "name": "Harshit Singh",
+    "department": "gfcyf",
+    "basicSalary": 90000
+  }
+]
